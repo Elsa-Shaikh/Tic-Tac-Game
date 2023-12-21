@@ -1,3 +1,9 @@
+# Tic Tac Toe Game
+This is a Tic Tac Toe game that I have created using React.js. It covers simple and basic concepts of React, which will be helpful in understanding React's states.
+
+# Technologies 
+HTML,CSS,REACTJS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
